@@ -236,6 +236,14 @@ status: Server probably on fire right now
 
 <a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=oi6v52l921g8eu2xpaz9zkqq2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify Now Playing"/></a>
 
+<br/><br/>
+
+<p><samp>Discord Presence</samp></p>
+
+<br/>
+
+<a href="https://discord.com/users/419301302586179586"><img src="https://lanyard.cnrad.dev/api/419301302586179586?theme=dark&bg=0d1117&borderRadius=12px&animated=true&idleMessage=Probably%20destroying%20a%20server%20right%20now" alt="Discord Presence" /></a>
+
 </div>
 
 <br/>
