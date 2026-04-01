@@ -115,24 +115,15 @@ status: Server probably on fire right now
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="50%">
 <a href="https://github.com/PasteFox"><img src="https://img.shields.io/badge/PasteFox-Share%20Code%20Instantly-0d1117?style=flat&logo=github&logoColor=58a6ff"/></a>
-<br/><br/>
-<sub>Verified &bull; <a href="https://pastefox.com">pastefox.com</a> &bull; <a href="https://x.com/PasteFoxCo">@PasteFoxCo</a></sub>
-<br/>
-<sub>Browser Extensions, VS Code, JetBrains, Desktop Apps</sub>
-</td>
-<td align="center" width="50%">
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/GrieferGamez"><img src="https://img.shields.io/badge/GrieferGame%20Network-Minecraft%20Server-0d1117?style=flat&logo=github&logoColor=58a6ff"/></a>
-<br/><br/>
-<sub><a href="https://griefergame.net">griefergame.net</a></sub>
+
 <br/>
-<sub>Bukkit Plugins, PlugMan Fork, Server Management</sub>
-</td>
-</tr>
-</table>
+
+<sub><a href="https://pastefox.com">pastefox.com</a> · <a href="https://x.com/PasteFoxCo">@PasteFoxCo</a> · Verified</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><a href="https://griefergame.net">griefergame.net</a> · Bukkit Plugins</sub>
 
 </div>
 
@@ -150,24 +141,17 @@ status: Server probably on fire right now
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/FlexKleks/DomainChecker"><img src="https://github-readme-stats-delta-five-67.vercel.app/api/pin/?username=FlexKleks&repo=DomainChecker&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="100%"/></a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/FlexKleks/bump-reminder"><img src="https://github-readme-stats-delta-five-67.vercel.app/api/pin/?username=FlexKleks&repo=bump-reminder&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="100%"/></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/FlexKleks/PelicanPlugins"><img src="https://github-readme-stats-delta-five-67.vercel.app/api/pin/?username=FlexKleks&repo=PelicanPlugins&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="100%"/></a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/FlexKleks/PasteFoxShare"><img src="https://github-readme-stats-delta-five-67.vercel.app/api/pin/?username=FlexKleks&repo=PasteFoxShare&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="100%"/></a>
-</td>
-</tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/FlexKleks/DomainChecker"><img src="https://github-readme-stats-delta-five-67.vercel.app/api/pin/?username=FlexKleks&repo=DomainChecker&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="49%"/></a>
+&nbsp;
+<a href="https://github.com/FlexKleks/bump-reminder"><img src="https://github-readme-stats-delta-five-67.vercel.app/api/pin/?username=FlexKleks&repo=bump-reminder&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="49%"/></a>
+
+<a href="https://github.com/FlexKleks/PelicanPlugins"><img src="https://github-readme-stats-delta-five-67.vercel.app/api/pin/?username=FlexKleks&repo=PelicanPlugins&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="49%"/></a>
+&nbsp;
+<a href="https://github.com/FlexKleks/PasteFoxShare"><img src="https://github-readme-stats-delta-five-67.vercel.app/api/pin/?username=FlexKleks&repo=PasteFoxShare&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="49%"/></a>
+
+</div>
 
 <br/>
 
@@ -181,16 +165,9 @@ status: Server probably on fire right now
 
 <br/>
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats-delta-five-67.vercel.app/api?username=FlexKleks&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" />
-</td>
-<td>
-<img src="https://github-readme-stats-delta-five-67.vercel.app/api/top-langs/?username=FlexKleks&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=10&size_weight=0.5&count_weight=0.5" />
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats-delta-five-67.vercel.app/api?username=FlexKleks&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" height="195"/>
+&nbsp;
+<img src="https://github-readme-stats-delta-five-67.vercel.app/api/top-langs/?username=FlexKleks&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=10&size_weight=0.5&count_weight=0.5" height="195"/>
 
 <br/><br/>
 
@@ -273,15 +250,11 @@ status: Server probably on fire right now
 
 <br/>
 
-<table>
-<tr>
-<td align="center">
 <img src="https://raw.githubusercontent.com/FlexKleks/FlexKleks/main/fox.jpg" width="300" alt="Random Fox"/>
-<br/><br/>
+
+<br/>
+
 <sub>Updates every 12 hours via GitHub Action</sub>
-</td>
-</tr>
-</table>
 
 </div>
 
