@@ -1,4 +1,4 @@
-name: Generate Snake & Pac-Man & Fox
+name: Generate Snake & Fox
 
 on:
   schedule:
@@ -16,7 +16,6 @@ jobs:
         outputs: |
           dist/github-snake.svg
           dist/github-snake-dark.svg?palette=github-dark
-          dist/github-pacman.svg?mode=pacman
     - uses: crazy-max/ghaction-github-pages@v3
       with:
         target_branch: output

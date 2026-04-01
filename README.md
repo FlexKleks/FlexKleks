@@ -237,29 +237,11 @@ status: Server probably on fire right now
 | 4 | Server status: 404 Not Found | `[!!]` |
 | 5 | "It wasn't me" | `[OK]` |
 
-<br/>
-
-> Uptime: 99.9%* — *measured in minutes, not percent*
-
-<br/>
-
-<p><samp>Random Dev Meme</samp></p>
-
-<br/>
-
-<img src="https://readme-jokes.vercel.app/api?theme=github_dark&hideBorder&qColor=%23ff9632&aColor=%238b949e" alt="Dev Joke" />
+<sub>Uptime: 99.9%* · *measured in minutes, not percent*</sub>
 
 <br/><br/>
 
-<p><samp>Fox of the Day</samp></p>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/FlexKleks/FlexKleks/main/fox.jpg" width="300" style="border-radius: 12px;" alt="Random Fox"/>
-
-<br/>
-
-<sub>Updates every 12 hours via GitHub Action</sub>
+<img src="https://readme-jokes.vercel.app/api?theme=github_dark&hideBorder&qColor=%23ff9632&aColor=%238b949e" alt="Dev Joke" />
 
 </div>
 
@@ -275,7 +257,31 @@ status: Server probably on fire right now
 
 <br/>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=oi6v52l921g8eu2xpaz9zkqq2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+<a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=oi6v52l921g8eu2xpaz9zkqq2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify Now Playing"/></a>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+<p><samp>Fox of the Day</samp></p>
+
+<br/>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/FlexKleks/FlexKleks/main/fox.jpg" width="300" alt="Random Fox"/>
+<br/><br/>
+<sub>Updates every 12 hours via GitHub Action</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -303,7 +309,11 @@ status: Server probably on fire right now
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/FlexKleks/FlexKleks/output/github-pacman.svg" alt="pacman contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FlexKleks/FlexKleks/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FlexKleks/FlexKleks/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FlexKleks/FlexKleks/output/pacman-contribution-graph-dark.svg" />
+</picture>
 
 </div>
 
