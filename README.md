@@ -227,20 +227,39 @@ status: Server probably on fire right now
 
 <p><samp>Server Admin Life</samp></p>
 
-```
-  ┌──────────────────────────────────────────────────┐
-  │                                                  │
-  │   Day 1:  Deploy server                     [OK] │
-  │   Day 2:  Server runs perfectly             [OK] │
-  │   Day 3:  "Let me just tweak one thing..."  [??] │
-  │   Day 4:  Server status: 404 Not Found      [!!] │
-  │   Day 5:  "It wasn't me"                    [OK] │
-  │                                                  │
-  │   Uptime: 99.9%*                                 │
-  │   * measured in minutes, not percent              │
-  │                                                  │
-  └──────────────────────────────────────────────────┘
-```
+<br/>
+
+| Day | Event | Status |
+|-----|-------|--------|
+| 1 | Deploy server | `[OK]` |
+| 2 | Server runs perfectly | `[OK]` |
+| 3 | "Let me just tweak one thing..." | `[??]` |
+| 4 | Server status: 404 Not Found | `[!!]` |
+| 5 | "It wasn't me" | `[OK]` |
+
+<br/>
+
+> Uptime: 99.9%* — *measured in minutes, not percent*
+
+<br/>
+
+<p><samp>Random Dev Meme</samp></p>
+
+<br/>
+
+<img src="https://readme-jokes.vercel.app/api?theme=github_dark&hideBorder&qColor=%23ff9632&aColor=%238b949e" alt="Dev Joke" />
+
+<br/><br/>
+
+<p><samp>Fox of the Day</samp></p>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/FlexKleks/FlexKleks/main/fox.jpg" width="300" style="border-radius: 12px;" alt="Random Fox"/>
+
+<br/>
+
+<sub>Updates every 12 hours via GitHub Action</sub>
 
 </div>
 
@@ -277,6 +296,14 @@ status: Server probably on fire right now
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FlexKleks/FlexKleks/output/github-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/FlexKleks/FlexKleks/output/github-snake-dark.svg" />
 </picture>
+
+<br/><br/>
+
+<p><samp>Pac-Man Contributions</samp></p>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/FlexKleks/FlexKleks/output/github-pacman.svg" alt="pacman contribution graph" />
 
 </div>
 
